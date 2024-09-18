@@ -6,9 +6,7 @@ body {
   margin: 0;
   padding: 0;
   background-image: url('desk.jpg');
-  background-size: 99% 882px; /* This will make the image cover the whole background */
-  background-repeat: no-repeat; /* Prevents the image from repeating */
-  background-position: center; /* Centers the image */ 
+  background-color: white; 
   color: #333;
 }
 
